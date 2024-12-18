@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Day07C#Task/1.0.0": {
+        "runtime": {
+          "Day07C#Task.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day07C#Task/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
